@@ -1,0 +1,6 @@
+[submodule "fork-ui"]
+	path = fork-ui
+	url = git@github.com:nguyenvanhoang26041994/fork-ui-v2.git
+[submodule "fork-mock"]
+	path = fork-mock
+	url = git@github.com:nguyenvanhoang26041994/fork-mock.git
